@@ -4,6 +4,6 @@ public class AboutMe {
         System.out.println("Favorite Book: Wings of Fire");
         System.out.println("Hobbies: Rowing, piano, and vibecoding");
         System.out.println("Birthday: April 2, 2011");
-        System.out.println("Favorite movie: Spider-Man: Brand New Day");
+        System.out.println("Favorite Movie: Spider-Man: Brand New Day");
     }
 }
